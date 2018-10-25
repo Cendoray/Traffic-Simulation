@@ -1,0 +1,29 @@
+50
+2
+60
+10
+40 5 10 5
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G 1 D U 2 G G G G G G G G G G
+L L L L L L L L L L L I I L L L L L L L L L L L 
+L L L L L L L L L L L I I L L L L L L L L L L L 
+R R R R R R R R R R R I I L R R R R R R R R R R 
+R R R R R R R R R R R I I L R R R R R R R R R R
+G G G G G G G G G G 3 D U 4 G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
+G G G G G G G G G G G D U G G G G G G G G G G G
